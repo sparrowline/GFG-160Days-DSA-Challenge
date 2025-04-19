@@ -161,5 +161,7 @@
 	<classpathentry kind="src" path="Day-97"/>
 	<classpathentry kind="src" path="Day-98"/>
 	<classpathentry kind="src" path="Day-99"/>
+	<classpathentry kind="src" path="Sorting-Techniques"/>
+	<classpathentry kind="src" path="Arrays"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
