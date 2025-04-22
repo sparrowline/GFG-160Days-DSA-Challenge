@@ -14,7 +14,7 @@ public class MinDifferenceElementInSortedArray {
 
 		int start = 0;
 		int end = nums.length - 1;
-		int diff = 0;
+		
 
 		while (start <= end) {
 

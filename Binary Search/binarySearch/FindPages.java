@@ -24,7 +24,6 @@ public static int findPages(int[] arr, int k) {
         int start = max;
         int end = sum;
         int result = -1;
-        int n = arr.length;
         
         while(start<=end){
             

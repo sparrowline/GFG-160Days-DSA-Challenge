@@ -163,5 +163,7 @@
 	<classpathentry kind="src" path="Day-99"/>
 	<classpathentry kind="src" path="Sorting-Techniques"/>
 	<classpathentry kind="src" path="Arrays"/>
+	<classpathentry kind="src" path="DSA-Patterns"/>
+	<classpathentry kind="src" path="Hashing"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

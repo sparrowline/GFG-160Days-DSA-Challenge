@@ -1,5 +1,6 @@
 package binarySearch;
 
+
 public class LastOccurrence {
 	//in a Ascending sorted array;
 	public static int lastIndex(int[] nums,int k) {
