@@ -165,5 +165,6 @@
 	<classpathentry kind="src" path="Arrays"/>
 	<classpathentry kind="src" path="DSA-Patterns"/>
 	<classpathentry kind="src" path="Hashing"/>
+	<classpathentry kind="src" path="Binary-Search"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
