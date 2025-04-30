@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class KMPAlgo {
+class KmpAlgo {
 
     ArrayList<Integer> search(String pat, String txt) {
        ArrayList<Integer> result = new ArrayList();
