@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class CountPairs {
+class CountPairslessThank {
     int countPairs(int arr[], int target) {
         // Your code here
         Arrays.sort(arr);
