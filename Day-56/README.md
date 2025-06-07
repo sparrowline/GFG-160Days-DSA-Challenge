@@ -11,7 +11,7 @@ Given an integer array `arr[]` and a number `k`, your task is to **find the coun
 ### Example 1
 
 - **Input:**  
-  `arr = [1, 2, 1, 3, 4, 2, 3], k = 4`
+  `arr = [1, 2, 1, 3, 4, 2, 3], k = 4 `
 - **Output:**  
   `[3, 4, 4, 3]`
 - **Explanation:**  
