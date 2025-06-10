@@ -1,6 +1,6 @@
 // User function Template for Java
 
-class MaxWater {
+class MaxWater1 {
 
     public int maxWater(int arr[]) {
         // Code Here
