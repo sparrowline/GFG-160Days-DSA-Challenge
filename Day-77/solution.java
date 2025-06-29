@@ -10,7 +10,7 @@ class Node1
     }
 } 
 
-class Solution {
+class Mirror {
     // Function to convert a binary tree into its mirror tree.
     void mirror(Node1 node) {
         // Your code here
