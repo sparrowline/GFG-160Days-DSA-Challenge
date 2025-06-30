@@ -2,10 +2,10 @@ import java.util.ArrayList;
 
 // A Binary Tree node
 
-class Node1 {
+class Node3 {
     int data;
-    Node1 left, right;
-   Node1(int item)    {
+    Node3 left, right;
+   Node3(int item)    {
         data = item;
         left = right = null;
     }
@@ -13,7 +13,7 @@ class Node1 {
 
 class InOrder {
     // Function to return a list containing the inorder traversal of the tree.
-    ArrayList<Integer> inOrder(Node1 root) {
+    ArrayList<Integer> inOrder(Node3 root) {
         // Code
         
         ArrayList<Integer> result = new ArrayList<>();
@@ -21,7 +21,7 @@ class InOrder {
         return result;
     }
     
-    private void inorderTraversal(Node1 node,ArrayList<Integer> result){
+    private void inorderTraversal(Node3 node,ArrayList<Integer> result){
         if(node == null ) return ;
         
         inorderTraversal(node.left,result); //left;
